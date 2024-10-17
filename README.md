@@ -8,6 +8,7 @@
   - [Publisher](https://booksite.elsevier.com/9780124104099/)
 - [Programming Languages: Principles and Practice, 3e](https://www.cs.sjsu.edu/faculty/louden/pltext3.html)
 - [Practical Foundations for Programming Languages, 2e](https://www.cs.cmu.edu/~rwh/pfpl.html)
+- [Foundations of Programming Languages, 2e](https://kentdlee.github.io/PL/build/html/index.html)
 - [Types and Programming Languages](https://www.cis.upenn.edu/~bcpierce/tapl/)
 - [Programming Languages: Application and Interpretation](https://cs.brown.edu/~sk/Publications/Books/ProgLangs/2007-04-26/)
 - ---

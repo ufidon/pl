@@ -27,3 +27,13 @@
 - ---
 - [GoCaml: A subset of OCaml in Go](https://github.com/rhysd/gocaml)
   - [MinCaml: An educational compiler for a minimal subset of OCaml](https://github.com/esumii/min-caml)
+- ---
+- [chibicc: A Small C Compiler](https://github.com/rui314/chibicc)
+  - [porting](https://briancallahan.net/blog/20220629.html)
+- [TCC: Tiny C Compiler](https://bellard.org/tcc/)
+  - [github](https://github.com/TinyCC/tinycc)
+- [lcc, A Retargetable Compiler for ANSI C](https://drh.github.io/lcc/)
+  - [github](https://github.com/drh/lcc)
+  - [lcc-win: A Compiler system for windows](https://lcc-win32.services.net/)
+- [PCC: Portable C Compiler](https://github.com/IanHarvey/pcc)
+  - [fresh ports](https://www.freshports.org/lang/pcc)

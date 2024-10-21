@@ -35,6 +35,8 @@
   - [CIS 1200: Computer Science through Program Design](https://www.seas.upenn.edu/~cis120/current/)
   - [CIS 5000: Software Foundations](https://www.seas.upenn.edu/~cis5000)
   - [CIS 5520: Advanced Programming](https://www.seas.upenn.edu/~cis5520)
+- _uwashington_
+  - [CSE341: Programming Languages](https://courses.cs.washington.edu/courses/cse341/)
 
 ## Compilers
 - [Compilers: Principles, Techniques, and Tools](https://suif.stanford.edu/dragonbook/)

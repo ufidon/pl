@@ -4,6 +4,8 @@
 
 # References
 ## Textbooks
+- [Programming Language Principles and Paradigms](https://eecs390.github.io/notes/index.html)
+- [Programming Languages](https://opendsa.cs.vt.edu/ODSA/Books/PL/html/index.html)
 - [Programming Language Pragmatics](https://www.cs.rochester.edu/u/scott/pragmatics/)
   - [Publisher](https://booksite.elsevier.com/9780124104099/)
 - [Concepts of Programming Languages, 12e](https://www.pearson.com/en-us/subject-catalog/p/concepts-of-programming-languages/P200000003361/9780135102268)
@@ -23,6 +25,11 @@
 - [The Software Foundations series](https://softwarefoundations.cis.upenn.edu/)
 - [Category Theory for Programmers: The Preface](https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/)
   - [pdf](https://github.com/hmemcpy/milewski-ctfp-pdf)
+- [The Lambda Calculus](https://plato.stanford.edu/entries/lambda-calculus/)
+  - [Reference sheet](https://learnxinyminutes.com/docs/lambda-calculus/)
+- [Category Theory and Lambda Calculus](https://github.com/mroman42/ctlc)
+
+---
 
 ## Online classes
 - _stanford_
@@ -30,6 +37,7 @@
     - [Homework](https://github.com/danvk/Stanford-CS-242-Programming-Languages)
     - [2019 Fall](https://stanford-cs242.github.io/f19/)
 - _cornell_
+  - [ CS 3110 Data Structures and Functional Programming](https://cs3110.github.io/textbook/cover.html)
   - [CS6110: Advanced Programming Languages](https://www.cs.cornell.edu/courses/cs6110/2023sp/)
 - _upenn_
   - [CIS 1200: Computer Science through Program Design](https://www.seas.upenn.edu/~cis120/current/)
@@ -37,6 +45,8 @@
   - [CIS 5520: Advanced Programming](https://www.seas.upenn.edu/~cis5520)
 - _uwashington_
   - [CSE341: Programming Languages](https://courses.cs.washington.edu/courses/cse341/)
+
+---
 
 ## Compilers
 - [Compilers: Principles, Techniques, and Tools](https://suif.stanford.edu/dragonbook/)
@@ -55,3 +65,8 @@
   - [lcc-win: A Compiler system for windows](https://lcc-win32.services.net/)
 - [PCC: Portable C Compiler](https://github.com/IanHarvey/pcc)
   - [fresh ports](https://www.freshports.org/lang/pcc)
+
+---
+
+## Languages
+- [esoteric programming languages](https://esolangs.org/wiki/Main_Page)

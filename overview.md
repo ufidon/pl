@@ -35,7 +35,7 @@
 
 ---
 
-# The Big Picture: Goals of Programming Languages
+# Goals of Programming Languages
 
 - Programming languages aim to balance three key goals:
   - **Productivity**: Easier, faster development (e.g., Python, Haskell, C#, F#)
@@ -61,7 +61,7 @@
 
 ---
 
-# The Long View of Programming Languages
+# The Big Picture of Programming Languages
 
 - **Pioneers in Computing:**
   - Alan Turing: 
@@ -77,7 +77,7 @@
 
 ---
 
-# Turing Languages vs. Church Languages
+## Turing Languages vs. Church Languages
 
 | Aspect     | **Turing Languages**      | **Church Languages**   |
 |--------------------|---------------|--------------------------|
@@ -128,16 +128,16 @@
 
 ---
 
-# 🔭 Explore [Computer Languages History](https://www.levenez.com/lang/)
+## 🔭 Explore [Computer Languages History](https://www.levenez.com/lang/)
 
 ---
 
-# [Programming paradigms](https://en.wikipedia.org/wiki/Programming_paradigm)
+## [Programming paradigms](https://en.wikipedia.org/wiki/Programming_paradigm)
 
 | **Paradigm**   | **Description**    | **Key Features** | **Examples**  | **Applications**     |
 |---------|---------|-----------|-----------|--------------|
 | **Imperative**         | Focuses on describing *how* a program operates through step-by-step instructions.                       | Mutable state, loops, conditionals, sequential execution.                       | C, Python, Java           | System programming, general-purpose. |
-| **`Functional`**         | Based on mathematical functions and immutability, emphasizing *what* to compute.                        | First-class functions, immutability, recursion, lazy evaluation.                | Haskell, Lisp, Scheme     | AI, academic research, data analysis.|
+| **`Functional`**         | Based on mathematical `functions and immutability`, emphasizing *what* to compute.                        | First-class functions, immutability, recursion, lazy evaluation.                | Haskell, Lisp, Scheme     | AI, academic research, data analysis.|
 | **Object-Oriented**    | Organizes code around objects that encapsulate state and behavior, promoting modularity.                 | Classes, inheritance, polymorphism, encapsulation.                              | C++, Java, Python         | GUI apps, enterprise software.       |
 | **`Logic`**             | Focuses on facts, rules, and logical inference to solve problems `declaratively`.                         | Facts, rules, queries, backtracking.                                            | Prolog, CLIPS             | AI, expert systems, knowledge bases. |
 | **Declarative**        | Focuses on describing *what* the outcome should be, without specifying *how* to achieve it.             | High-level abstractions, limited control flow constructs.                       | SQL, HTML, XSLT           | Databases, web development.          |

@@ -1,5 +1,9 @@
 # Programming Languages
 
+- [Overview of PLs](./overview.md)
+- [Module 1: PL Theory](./mod1/README.md)
+- [Module 2: Modern PLs](./mod2/README.md)
+- [Module 3: Advanced Topics](./mod3/README.md)
 
 
 # References

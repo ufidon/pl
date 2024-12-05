@@ -70,10 +70,9 @@
   - Alonzo Church: 
     - [Lambda Calculus](https://en.wikipedia.org/wiki/Programming_language_theory): a functional, mathematical abstraction of computation.
     - `Church` Languages
-- Programming languages have been shaped by visionary ideas:
-  - Grace Hopper: Early automation and abstraction
-  - John Backus: Efficiency through compilers (FORTRAN)
-  - Kristen Nygaard: Object-oriented programming (Simula)
+- Computability: `Turing Completeness`
+  - Both paradigms are Turing-complete, meaning any computation expressible in one can be expressed in the other.
+  - A Turing Machine can simulate lambda calculus and vice versa.
 
 ---
 

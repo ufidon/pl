@@ -61,6 +61,112 @@
 
 ---
 
+## 🤔 Do you know in what languages they are written?
+- All the programs below print "Hello World!"
+
+- Program 1: 
+
+```plaintext
+++++++++++[>+>+++>+++++++>++++++++++<<<<-]>>>++.>+.+++++++..+++.<<++.>+++++++++++++++.>.+++.------.--------.<<+.<.
+```
+
+- Program 2: 
+
+```plaintext
+"!dlrow olleH">:#,_@
+```
+
+- Program 3: 
+
+```plaintext
+DO ,1 <- #13
+DO ,1 SUB #1 <- #238
+DO ,1 SUB #2 <- #108
+DO ,1 SUB #3 <- #112
+DO ,1 SUB #4 <- #0
+DO ,1 SUB #5 <- #64
+DO ,1 SUB #6 <- #194
+DO ,1 SUB #7 <- #48
+DO ,1 SUB #8 <- #22
+DO ,1 SUB #9 <- #248
+DO ,1 SUB #10 <- #168
+DO ,1 SUB #11 <- #24
+DO ,1 SUB #12 <- #16
+DO ,1 SUB #13 <- #162
+DO READ OUT ,1
+DO GIVE UP
+```
+
+- Program 4: 
+  - `[S]` = Space
+  - `[T]` = Tab
+  - `[N]` = Newline 
+
+```plaintext
+[S][T][S][S]  (Push H ASCII code: 72)
+[T][S]       (Output character)
+[S][T][S][S]  (Push e ASCII code: 101)
+[T][S]       (Output character)
+[S][T][S][S]  (Push l ASCII code: 108)
+[T][S]       (Output character)
+[S][T][S][S]  (Push l ASCII code: 108)
+[T][S]       (Output character)
+[S][T][S][S]  (Push o ASCII code: 111)
+[T][S]       (Output character)
+[S][T][S][S]  (Push , ASCII code: 44)
+[T][S]       (Output character)
+[S][T][S][S]  (Push space ASCII code: 32)
+[T][S]       (Output character)
+[S][T][S][S]  (Push W ASCII code: 87)
+[T][S]       (Output character)
+[S][T][S][S]  (Push o ASCII code: 111)
+[T][S]       (Output character)
+[S][T][S][S]  (Push r ASCII code: 114)
+[T][S]       (Output character)
+[S][T][S][S]  (Push l ASCII code: 108)
+[T][S]       (Output character)
+[S][T][S][S]  (Push d ASCII code: 100)
+[T][S]       (Output character)
+[S][T][S][S]  (Push ! ASCII code: 33)
+[T][S]       (Output character)
+```
+
+- Program 5:
+
+```plaintext
+('&%:9]!~}|z2Vxwv-,POqponl$Hjig%eB@@>}=<M:9wv6WsU2T|nm-,jcL(I&%$#"
+`CB]V?Tx<uVtT`Rpo3NlF.Jh++FdbCBA@?]!~|4XzyTT43Qsqq(Lnmkj"Fhg${z@>
+```
+
+---
+
+### Esolangs (esoteric programming languages)
+
+| **Program** | **Esolang**   | **Notable Feature**                                    | **Purpose**                            |
+|--|---------------|--------------------------------------------------------|----------------------------------------|
+| 1 | **Brainfuck** | Minimalism and Turing-completeness                     | Challenge programming skills.          |
+| 2 | **Befunge**   | Two-dimensional program flow                           | Explore unconventional execution.      |
+| 3 | **INTERCAL**  | Absurdity and politeness                               | Parody of conventional programming.    |
+| 4 | **Whitespace**| Invisible syntax using spaces, tabs, and newlines      | Humor and obfuscation.                 |
+| 5 | **Malbolge**  | Extreme difficulty and self-modifying code             | Challenge and frustration.             |
+
+---
+
+## 🔭 Explore 
+- [esoteric programming languages](https://esolangs.org/wiki/Main_Page)
+
+---
+
+## 📝 [Esolang Interpreters](https://github.com/bangyen/esolangs)
+- [Brainfuck](https://github.com/rdebath/Brainfuck)
+  - [online](https://copy.sh/brainfuck/)
+- [Befunge](https://therenegadecoder.com/code/hello-world-in-befunge/)
+- [INTERCAL](http://www.catb.org/~esr/intercal/)
+- [Whitespace](https://en.wikipedia.org/wiki/Whitespace_(programming_language))
+- [Malbolge](https://malbolge.doleczek.pl/)
+
+---
+
 # The Big Picture of Programming Languages
 
 - **Pioneers in Computing:**

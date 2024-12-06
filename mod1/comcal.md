@@ -16,37 +16,40 @@
 - A foundation for more advanced languages.
 - A minimalist and unique computational model.
 
+
 ---
 
 ## SKI Calculus: Core Concepts
 
 - Function calls are written by juxtaposing two expressions:  
-  **Function** → **Argument**
+   **Function Argument** → **Result** 
 
-### Core Combinators:
-1. **Identity Combinator**:  
+   `→` indicates a step of computation
+
+
+### Core Combinators: S, K, and I
+1. **Identity**:  
    $I \ x \to x$  
    *Simply returns its argument.*
 
-2. **Constant Function**:  
+2. **Constant or Kill**:  
    $K \ x \ y \to x$  
    *Ignores the second argument.*
 
-3. **Generalized Application**:  
+3. **Substitution**:  
    $S \ x \ y \ z \to (x \ z) \ (y \ z)$  
    *Distributes and applies arguments.*
 
+- All operations in `lambda calculus` can be encoded via `abstraction elimination` into the SKI calculus 
+  - as `binary trees` whose `leaves` are one of the three symbols `S, K, and I (called combinators)`
 ---
 
-## Working with Multiple Arguments
+## 🍎 Working with Multiple Arguments
 
-- **Example: $K$**  
-  - $K$: A well-formed program by itself; no rules apply.  
-  - $K \ x$: Still no computation happens.  
-  - $K \ x \ y \to x$: Executes when it has two arguments.  
-
-- **Example: $S$**  
-  - $S \ x \ y \ z \to (x \ z) \ (y \ z)$: Creates and applies function calls.
+- $K$: A well-formed program by itself; no rules apply.  
+- $K \ x$: Still no computation happens.  
+- $K \ x \ y \to x$: Executes when it has two arguments.  
+- $K \ x \ y \ z \to x \ z$: Uses the first two arguments.
 
 ---
 
@@ -165,3 +168,8 @@ $(\text{not } F) \ \text{and } T = (F \ F \ T) \ T \ F \to T$.
   - Discuss **confluence** (guaranteeing consistent results).
   - Survey other combinator-based languages.
 
+---
+
+# References
+- [Combinatory logic](https://en.wikipedia.org/wiki/Combinatory_logic)
+  - [SKI combinator calculus](https://en.wikipedia.org/wiki/SKI_combinator_calculus)
